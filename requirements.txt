@@ -1,0 +1,15 @@
+# HTTP requests
+requests==2.32.4
+
+# OpenAI / Groq API client
+openai==1.107.2
+
+# Data types for type hints
+typing-extensions
+
+# Optional: for logging and debugging
+logging
+
+# Optional: to hide API key input
+getpass
+export GROQ_API_KEY="your_api_key here" 
