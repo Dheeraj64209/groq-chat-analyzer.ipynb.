@@ -1,5 +1,3 @@
-# groq-chat-analyzer.ipynb.
-
 # Groq Chat Analyzer
 
 This project demonstrates a **chat analysis system** using Groq/OpenAI API with the following features:
